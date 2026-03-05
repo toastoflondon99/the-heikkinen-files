@@ -1,4 +1,4 @@
-/* app.js — The Heikkinen Files */
+/* app.js — The Heikkila Files */
 
 (function () {
   "use strict";

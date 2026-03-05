@@ -1,7 +1,7 @@
 {
   "name": "the-heikkinen-files",
   "version": "1.0.0",
-  "description": "The Heikkinen Files — A Parody Exposé",
+  "description": "The Heikkila Files — A Parody Exposé",
   "scripts": {
     "start": "npx serve ."
   }
